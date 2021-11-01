@@ -20,7 +20,7 @@ const Spinner = styled("div")`
 `;
 
 const Loader = () => {
-  return <Spinner></Spinner>;
+  return <Spinner />;
 };
 
 export default Loader;
